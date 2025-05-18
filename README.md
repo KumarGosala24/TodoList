@@ -1,16 +1,17 @@
-# ✅ To-Do List App
 
-*A sleek and simple task manager to boost productivity*
+
+# To-Do List App
+
+- A sleek and simple task manager to boost productivity.
 
 ![Made with HTML & JS](file:///B:/HTML%20Projects/Todo/index.html)
 
 
 
----
 
-### 8. **Usage**
-```markdown
-## 👨‍💻 Usage
+
+### Usage
+
 
 - Create tasks to keep track of daily goals
 - Mark tasks complete when done
