@@ -27,5 +27,4 @@ Feel free to check the [issues page](https://github.com/KumarGosala24/TodoList).
 
 ## 🙋‍♂️ Author
 
-**Gosala Sowjanya Kumar**  
 Connect with me on [LinkedIn](https://www.linkedin.com/in/sowjanya-kumar-gosala/)
